@@ -8,8 +8,8 @@ A personal project to learn `web.py` and `python` and the `praw` API
 
 ### Dependencies
 
-- web.py
-- praw
+- [web.py](http://webpy.org/)
+- [praw](https://github.com/praw-dev/praw)
 
 ### How to use
 
