@@ -1,2 +1,20 @@
-#reddit-tldr
+![image](http://imgur.com/V9WalTJ.png)
+
+---
+
+### Motivation
+
 A personal project to learn `web.py` and `python` and the `praw` API
+
+### Dependencies
+
+- web.py
+- praw
+
+### How to use
+
+Once you've cloned the project, go to the directory and run `python server.py` and navigate to `http://localhost:8080/static/index.html` 
+
+### wtf? 
+
+This will not be a hosted webapp, probably. I just made this so i could learn (_see, Motivation_)

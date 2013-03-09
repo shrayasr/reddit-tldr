@@ -12,13 +12,13 @@ $(function(){
 	
 	$("#go-button").click(function(){
 
+		$("#tldr-area").html("");
+
 		var tldrs = $("#how-many").val();
 
 		console.log("Fetching "+tldrs+" tldr's");
 
 		$.getJSON('/tldr/tldrs/'+tldrs,function(json){
-
-			$("#tldr-area").html("");
 
 			$.each(json.data,function(key,value){
 
