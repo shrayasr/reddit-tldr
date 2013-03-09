@@ -18,3 +18,9 @@ Once you've cloned the project, go to the directory and run `python server.py` a
 ### wtf? 
 
 This will not be a hosted webapp, probably. I just made this so i could learn (_see, Motivation_)
+
+### Excite me
+
+Heres how it looks
+
+![image](http://i.imgur.com/6lrsxFR.png)
