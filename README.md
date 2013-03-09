@@ -13,7 +13,10 @@ A personal project to learn `web.py` and `python` and the `praw` API
 
 ### How to use
 
-Once you've cloned the project, go to the directory and run `python server.py` and navigate to `http://localhost:8080/static/index.html` 
+- Clone the project
+- run `python setup.py install`
+- run `python server.py`
+- go to `http://localhost:8080/static/index.html`
 
 ### wtf? 
 
