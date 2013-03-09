@@ -30,9 +30,16 @@ class tldrs:
 			o = {}
 			o['text']=tldrParts[0]
 			o['link']=tldrParts[1]
+			if len(tldrParts[0]) == len(tldrParts[1]):
+				o['heading']=True
+			else:
+				o['heading']=False
 			a.append(o)
 
-		return json.dumps(a)
+		data={}
+		data['data']=a
+
+		return json.dumps(data)
 
 if __name__ == "__main__":
 	app.run()

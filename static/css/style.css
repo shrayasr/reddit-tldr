@@ -1,0 +1,94 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	color: #2e2e2e;
+}
+
+a
+{
+	text-decoration:none;
+	color: #2277b7;
+}
+
+h1
+{
+	padding: 20px 0 20px 10px;
+	background: #2e2e2e;
+	color: #fff;
+	font: bold 40px "Lucida Grande",Tahoma,Verdana;
+}
+
+#carea
+{
+	margin: 0 auto;
+	width: 700px;
+}
+
+.tldr-heading
+{
+	font: 25px Georgia, "Times New Roman";
+	padding: 20px 0 10px 0;
+	border-bottom: 2px solid #2e2e2e;
+}	
+
+.tldr-text
+{
+	padding: 5px 0;
+	font: 15px "Lucida Grande", Tahoma, Verdana;
+}
+
+#tldr-area
+{
+	list-style:none;
+	margin-bottom: 100px;
+}
+
+#no
+{
+	text-align:center;
+	font: 15px "Lucida Grande", Tahoma, Verdana;
+	background: #ebebeb;
+	margin-top: 10px;
+	padding: 20px;
+}
+
+input[type="text"]
+{
+	border:none;
+	border-bottom: 2px solid #2e2e2e;
+	width: 50px;
+	background: #ebebeb;
+}
+
+.tldr-button
+{
+	background: #2e2e2e;
+	padding: 3px;
+	color: #fff;
+	border-radius: 2px;
+	border: 2px solid #2e2e2e;
+}
+
+.tldr-button:hover
+{
+	background: #fff;
+	border: 2px solid #2e2e2e;
+	border-radius: 2px;
+	color: #2e2e2e;
+	font: 15px "Lucida Grande", Tahoma, Verdana;
+}
+
+#loading-bar
+{
+	text-align:center;
+	padding: 10px;
+	margin-top: 20px;
+	border: 2px solid #2e2e2e;
+	border-radius: 5px;
+	font: 25px "Lucida Grande", Tahoma, Verdana;
+}

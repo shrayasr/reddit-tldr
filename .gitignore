@@ -44,3 +44,6 @@ nosetests.xml
 Session.vim
 .netrwhist
 *~
+
+### mac shit ###
+.DS_Store
