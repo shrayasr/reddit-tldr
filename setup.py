@@ -7,7 +7,7 @@ setup(
 		author_email = "username: shrayasr, domain: gmail.com",
 		url = "https://github.com/shrayas/reddit-tldr",
 		install_requires = [
-			"web",
+			"web.py",
 			"praw"
 		]
 )
