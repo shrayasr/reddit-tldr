@@ -6,24 +6,12 @@
 
 A personal project to learn `web.py` and `python` and the `praw` API
 
-### Dependencies
+### Installation
 
-- [web.py](http://webpy.org/)
-- [praw](https://github.com/praw-dev/praw)
+  	virtualenv env
+  	pip install -r requirements.txt
+  	python server.py
 
-### How to use
+Go over to `http://localhost:8080/static/index.html`
 
-- Clone the project
-- run `python setup.py install`
-- run `python server.py`
-- go to `http://localhost:8080/static/index.html`
-
-### wtf? 
-
-This will not be a hosted webapp, probably. I just made this so i could learn (_see, Motivation_)
-
-### Excite me
-
-Heres how it looks
-
-![image](http://i.imgur.com/6lrsxFR.png)
+![image](http://i.imgur.com/wc9O4NR.png)
